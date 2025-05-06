@@ -30,13 +30,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Transportation Systems Engineering
+  - area: Ph.D. in Transportation Systems Engineering
     institution: University at Buffalo - SUNY, USA
     year: 2025 (expected)
-  - course: M.E. in Civil Engineering
+  - area: M.E. in Civil Engineering
     institution: University of New South Wales, Australia
     year: 2020
-  - course: B.A. in Civil Engineering
+  - area: B.A. in Civil Engineering
     institution: University at Buffalo - SUNY, USA
     year: 2018
 
